@@ -1,0 +1,61 @@
+Ga.Me
+
+before signing in - 
+left sidebar - 
+
+1. dashboard
+2. games
+3. sign in fb
+4. sign in g+
+5. sign  in twi
+6. sign in username
+7. create acc
+
+3.1 opens up fb sign in page
+4.1 opens up g+ sign in page
+5.1 opens up tw sign in page
+
+7.1 opens a model window with t he following options - 
+7.2 Sign in tab
+7.2.1 fb signin
+7.2.2 tw signin
+7.2.3 g+ sign in
+7.2.4 username and passwird
+7.2.5 keep me remember check
+7.2.6 sign in btn
+
+7.3 new user tab
+7.3.1 - fb sign up
+7.3.2 - tw sign up
+7.3.3 - g+ sign up
+7.3.4 - choose username
+7.3.5 - lets play btn
+
+7.4 forgot tab
+7.4.1 - email
+7.4.2 - send button
+
+
+Graceful handling of guest users.
+1) ask for a username and live check the availability of the username
+2) let the users to play the game but show a general warning/notification to set a password to complete their profile.
+3) when users try to make a comment/follow/reply to other players ask to provide an email address and make them validate the email before they can do anything.
+4) one profile per email
+5) ask to complete the profile and simultaneously give them rewards for doing so. Like linking with facebook, twitter and google +
+6) when a social profile is already associated with another acc then ask to provide another social acc or ask them which one to keep and which profile to destroy.
+7) all deletion should be soft delete including comments to profiles to profile unfollow etc.
+8) share option for every single achievement/badges to social platform
+
+Features during gameplay
+1. Global chat
+2. Friend chat
+3. Friends follow - any ingame, fb, tw, g+
+4. Leaderboard in that game and our ranking
+5. share about that game
+6. info about that game
+7. in app purchases for that game
+8. badges and achievements in that game
+
+
+
+
